@@ -118,12 +118,12 @@ a {
   .site-footer ul li {
     margin-bottom: 10px; }
     .site-footer ul li a {
-      color: #5c626e; }
+      color: #ffffff; }
       .site-footer ul li a:hover {
         color: #51eaea; }
   .site-footer .footer-heading {
     font-size: 1.2rem;
-    color: #000;
+    color: #ffffff;
     margin-bottom: 1rem; }
 
 /* Navbar */
@@ -659,7 +659,7 @@ a {
   padding-left: 30px;
   position: relative;
   margin-bottom: 15px;
-  color: #25262a; }
+  color: #ffffff; }
   .block-5 ul li:before {
     top: 0;
     font-family: "icomoon";
