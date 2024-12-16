@@ -1080,11 +1080,11 @@ a {
   .banner-1 .banner-1-inner {
     width: 50%; }
     .banner-1 .banner-1-inner h2 {
-      color: #000;
+      color: #51eaea;
       text-transform: uppercase;
       font-weight: 900; }
     .banner-1 .banner-1-inner p {
-      color: rgba(0, 0, 0, 0.5);
+      color: rgba(255, 255, 255);
       font-size: 1.2rem; }
 
 .testimony blockquote p {
